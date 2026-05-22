@@ -41,7 +41,8 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
-	
+	<img width="824" height="840" alt="Screenshot 2026-05-22 213748" src="https://github.com/user-attachments/assets/bc6ea54f-e219-45fc-b8f8-fe3545187bdc" />
+
 Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
